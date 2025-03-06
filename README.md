@@ -6,5 +6,5 @@ You can find the slides here.
 Demo code is in the repo.
 
 Credits:
-[Billboard Data](https://github.com/utdata/rwd-billboard-data)
+[UT Austin's Billboard Data](https://github.com/utdata/rwd-billboard-data)
 [Spotify API Docs](https://developer.spotify.com/documentation/web-api)
